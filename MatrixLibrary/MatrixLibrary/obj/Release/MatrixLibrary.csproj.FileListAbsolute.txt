@@ -1,0 +1,9 @@
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\bin\Release\MatrixLibrary.dll
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\bin\Release\MatrixLibrary.pdb
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.csprojAssemblyReference.cache
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.csproj.CopyComplete
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.dll
+C:\Users\Vadym\source\repos\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.pdb

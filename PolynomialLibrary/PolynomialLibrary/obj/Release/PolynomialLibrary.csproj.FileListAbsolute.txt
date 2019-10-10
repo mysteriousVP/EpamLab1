@@ -1,0 +1,5 @@
+C:\Users\Vadym\source\repos\PolynomialLibrary\PolynomialLibrary\bin\Release\PolynomialLibrary.dll
+C:\Users\Vadym\source\repos\PolynomialLibrary\PolynomialLibrary\bin\Release\PolynomialLibrary.pdb
+C:\Users\Vadym\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Release\PolynomialLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Release\PolynomialLibrary.dll
+C:\Users\Vadym\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Release\PolynomialLibrary.pdb
